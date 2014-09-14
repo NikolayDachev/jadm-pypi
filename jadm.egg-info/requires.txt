@@ -1,0 +1,4 @@
+tabulate>=0.7
+netifaces>=0.6
+ipaddress>=1.0.6
+paramiko>=1.13.0

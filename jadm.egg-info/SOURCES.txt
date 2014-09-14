@@ -1,0 +1,9 @@
+README
+jadm
+setup.py
+jadm.egg-info/PKG-INFO
+jadm.egg-info/SOURCES.txt
+jadm.egg-info/dependency_links.txt
+jadm.egg-info/requires.txt
+jadm.egg-info/top_level.txt
+man8/jadm.8
